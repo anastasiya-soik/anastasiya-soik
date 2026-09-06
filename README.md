@@ -12,9 +12,8 @@
 
 ## 👨‍💻 About Me
 
-Я проджект-менеджер, которая случайно влюбилась в разработку и AI. Делаю приложения как хобби в формате **vibe coding** — когда идея, AI помощник и экспериментирование сходятся в одну стихию.
+Я проджект-менеджер, играюсь с вайбкодингом. Делаю разные штуки как хобби :3
 
-📍 **Москва** | 🇷🇺 Русский (родной) | 🇬🇧 English (fluent)
 
 ---
 
@@ -134,18 +133,10 @@
 
 ---
 
-## 📌 Fun Fact
-
-Мой путь: Product Manager → frustrated by technical limitations → learned to code → fell in love with AI → now building cool things with both skills combined.
-
 If you fork something from here — a star would make my day! ⭐
 
 ---
 
 <div align="center">
-
-**Made with ❤️ and ☕ in Moscow**
-
-*Last updated: September 2026*
 
 </div>
