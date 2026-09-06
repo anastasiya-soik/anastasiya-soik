@@ -136,7 +136,7 @@ Testing: gamification through streaks, AI coaching, monetization
 
 <div align="center">
 
-**Made with experimentation & ☕ in Moscow**
+**Made with experimentation Made with experimentation & ☕ in Moscow ☕**
 
 Last updated: September 2026
 
@@ -282,7 +282,7 @@ Last updated: September 2026
 
 <div align="center">
 
-**Сделано с экспериментированием & ☕ в Москве**
+**Сделано с экспериментированием Сделано с экспериментированием & ☕ в Москве ☕**
 
 Обновлено: Сентябрь 2026
 
