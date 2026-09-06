@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Product Manager | Code Explorer
+### Project Manager | AI explorer
 
 **Testing product ideas, technical approaches & vibe coding as a development methodology**
 
@@ -12,40 +12,13 @@
 
 ## About Me
 
-I'm a product manager who explores practical coding in parallel. This is not a hobby project collection — it's **deliberate practical learning** of various product and technical approaches.
+I'm a project manager who explores practical coding in parallel. This is not a hobby project collection — it's **deliberate practical learning** of various product and technical approaches
 
 My GitHub is where I:
 - 🧪 **Test ideas and approaches** in real applications (not tutorials)
 - 🔍 **Validate technical solutions** before production use
 - 🤖 **Investigate vibe coding** — how AI optimizes development
 - 📚 **Learn through practice** — to improve how I approach building
-
-Product manager by day, experimenter by night. 🌙
-
----
-
-## What I'm Testing
-
-### 📱 Product Ideas
-- Category-based expense tracking & analytics
-- Goal-oriented saving features with forecasting
-- Habit formation through gamification & streaks
-- Dual-platform design (web + Telegram)
-- Subscription models (Telegram Stars integration)
-
-### 🔧 Technical Approaches
-- Modern async stacks (FastAPI + SQLAlchemy async)
-- Multiple database patterns (PostgreSQL, SQLite)
-- API design for different clients (web, bots, mini apps)
-- Security practices (OWASP, secrets management, SAST)
-- Testing strategies (70%+ coverage requirement)
-
-### 🤖 Vibe Coding & AI
-- How AI (Claude) helps with code review & architecture
-- Prompt engineering for better code generation
-- AI-assisted testing & problem solving
-- Trade-offs between AI efficiency vs code ownership
-- When to use AI vs when to think it through
 
 ---
 
@@ -108,18 +81,9 @@ Testing: gamification through streaks, AI coaching, monetization
 4. **Documentation** — AI draft, I refine for accuracy
 5. **Problem-solving** — Brainstorm with AI, decide myself
 
-**Key principle:** AI accelerates, not replaces. I keep full code ownership.
+**Key principle:** AI accelerates, not replaces. I keep full code ownership
 
 ---
-
-## My Philosophy
-
-✓ **Real code** — Production apps, not tutorials  
-✓ **Tested thoroughly** — Every feature has tests & passes CI  
-✓ **Secure by default** — No compromises on security  
-✓ **Learn by building** — Theory comes from doing  
-✓ **Deliberate choices** — Use tools consciously  
-✓ **Iterate on insights** — Revisit code, apply learnings  
 
 ---
 
@@ -138,7 +102,6 @@ Testing: gamification through streaks, AI coaching, monetization
 
 **Made with experimentation Made with experimentation & ☕ in Moscow ☕**
 
-Last updated: September 2026
 
 </div>
 
