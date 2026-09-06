@@ -12,17 +12,17 @@
 
 ## About Me
 
-I'm a project manager who explores practical coding in parallel. This is not a hobby project collection — it's **deliberate practical learning** of various product and technical approaches.
+I'm a project manager who explores practical coding in parallel. This is not a hobby project collection — it's **deliberate practical learning** of various product and technical approaches
 
 My GitHub is where I:
-- 🧪 **Test ideas and approaches** in real applications (not tutorials)
-- 🔍 **Validate technical solutions** before production use
-- 🤖 **Investigate vibe coding** — how AI optimizes development
-- 📚 **Learn through practice** — to improve how I approach building
+- **Test ideas and approaches** in real applications (not tutorials)
+- **Validate technical solutions** before production use
+- **Investigate vibe coding** — how AI optimizes development
+- **Learn through practice** — to improve how I approach building
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### **[purrse](https://github.com/anastasiya-soik/budget-app)** — Smart Finance Tracker
 Testing: expense categorization, analytics, goal tracking, dual interface
@@ -86,8 +86,6 @@ Testing: gamification through streaks, AI coaching, monetization
 
 <div align="center">
 
-**Made with experimentation & ☕**
-
 </div>
 
 ---
@@ -106,17 +104,17 @@ Testing: gamification through streaks, AI coaching, monetization
 
 ## Обо мне
 
-Я работаю проджект-менеджером, но параллельно исследую практическую разработку. Это не просто hobby-проекты — это **целенаправленное практическое изучение** различных продуктовых и технических подходов.
+Я работаю проджект-менеджером, но параллельно исследую практическую разработку. Это не просто hobby-проекты — это **целенаправленное практическое изучение** различных продуктовых и технических подходов
 
 Мой GitHub — это место, где я:
-- 🧪 **Тестирую идеи и подходы** в реальных приложениях (не туториалах)
-- 🔍 **Валидирую технические решения** перед production
-- 🤖 **Исследую vibe coding** — как AI оптимизирует разработку
-- 📚 **Учусь на практике** — чтобы улучшать подход к разработке
+- **Тестирую идеи и подходы** в реальных приложениях (не туториалах)
+- **Валидирую технические решения** перед production
+- **Исследую vibe coding** — как AI оптимизирует разработку
+- **Учусь на практике** — чтобы улучшать подход к разработке
 
 ---
 
-## 🚀 Проекты
+## Проекты
 
 ### **[purrse](https://github.com/anastasiya-soik/budget-app)** — Умный трекер финансов
 Тестирование: категоризация расходов, аналитика, цели, двойной интерфейс
@@ -179,7 +177,5 @@ Testing: gamification through streaks, AI coaching, monetization
 ---
 
 <div align="center">
-
-**Сделано с экспериментированием & ☕**
 
 </div>
