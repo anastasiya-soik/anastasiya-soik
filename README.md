@@ -61,7 +61,7 @@ Testing: gamification through streaks, AI coaching, monetization
 
 ---
 
-## 💡 How I Use Vibe Coding
+## How I Use Vibe Coding
 
 1. **Architecture validation** — Claude reviews technical decisions before building
 2. **Code patterns** — AI suggests improvements, I evaluate fit
@@ -153,7 +153,7 @@ Testing: gamification through streaks, AI coaching, monetization
 
 ---
 
-## 💡 Как я использую Vibe Coding
+## Как я использую Vibe Coding
 
 1. **Валидация архитектуры** — Claude проверяет решения перед разработкой
 2. **Паттерны кода** — AI предлагает улучшения, я оцениваю пригодность
