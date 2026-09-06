@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a project manager who explores practical coding in parallel. This is not a hobby project collection — it's **deliberate practical learning** of various product and technical approaches
+I'm a project manager who explores practical coding in parallel. This is not a hobby project collection — it's **deliberate practical learning** of various product and technical approaches.
 
 My GitHub is where I:
 - 🧪 **Test ideas and approaches** in real applications (not tutorials)
@@ -61,18 +61,6 @@ Testing: gamification through streaks, AI coaching, monetization
 
 ---
 
-## 📊 Quality Standards
-
-| Aspect | Validation |
-|--------|-----------|
-| **Code Quality** | Ruff linting, Bandit SAST, 70%+ coverage |
-| **Security** | 0 hardcoded secrets, OWASP patterns, dep scanning |
-| **Testing** | 112+ backend tests, 64+ frontend tests |
-| **Monitoring** | Sentry for production tracking |
-| **CI/CD** | GitHub Actions, Railway auto-deploy |
-
----
-
 ## 💡 How I Use Vibe Coding
 
 1. **Architecture validation** — Claude reviews technical decisions before building
@@ -82,8 +70,6 @@ Testing: gamification through streaks, AI coaching, monetization
 5. **Problem-solving** — Brainstorm with AI, decide myself
 
 **Key principle:** AI accelerates, not replaces. I keep full code ownership
-
----
 
 ---
 
@@ -100,8 +86,7 @@ Testing: gamification through streaks, AI coaching, monetization
 
 <div align="center">
 
-**Made with experimentation Made with experimentation & ☕ in Moscow ☕**
-
+**Made with experimentation & ☕**
 
 </div>
 
@@ -111,7 +96,7 @@ Testing: gamification through streaks, AI coaching, monetization
 
 <div align="center">
   
-### Продакт-менеджер | Код-исследователь
+### Проджект-менеджер | AI исследователь
 
 **Тестирование продуктовых идей, технических подходов и vibe coding как методологии разработки**
 
@@ -121,40 +106,13 @@ Testing: gamification through streaks, AI coaching, monetization
 
 ## Обо мне
 
-Я работаю product manager'ом, но параллельно исследую практическую разработку. Это не просто hobby-проекты — это **целенаправленное практическое изучение** различных продуктовых и технических подходов.
+Я работаю проджект-менеджером, но параллельно исследую практическую разработку. Это не просто hobby-проекты — это **целенаправленное практическое изучение** различных продуктовых и технических подходов.
 
 Мой GitHub — это место, где я:
 - 🧪 **Тестирую идеи и подходы** в реальных приложениях (не туториалах)
 - 🔍 **Валидирую технические решения** перед production
 - 🤖 **Исследую vibe coding** — как AI оптимизирует разработку
 - 📚 **Учусь на практике** — чтобы улучшать подход к разработке
-
-Проджект-менеджер днём, экспериментатор ночью. 🌙
-
----
-
-## Что я тестирую
-
-### 📱 Продуктовые идеи
-- Категоризация расходов и аналитика
-- Цели накоплений с прогнозированием
-- Формирование привычек через геймификацию и стрики
-- Двуплатформенный дизайн (веб + Telegram)
-- Модели подписок (интеграция Telegram Stars)
-
-### 🔧 Технические подходы
-- Modern async стеки (FastAPI + SQLAlchemy async)
-- Различные паттерны БД (PostgreSQL, SQLite)
-- Дизайн API для разных клиентов (веб, боты, миниапы)
-- Практики безопасности (OWASP, управление секретами, SAST)
-- Стратегии тестирования (70%+ покрытие)
-
-### 🤖 Vibe Coding и AI
-- Как AI (Claude) помогает в review и архитектуре
-- Prompt engineering для лучшей генерации кода
-- AI-ассистированное тестирование и решение проблем
-- Компромиссы между эффективностью AI и ответственностью за код
-- Когда использовать AI, когда думать самому
 
 ---
 
@@ -197,18 +155,6 @@ Testing: gamification through streaks, AI coaching, monetization
 
 ---
 
-## 📊 Стандарты качества
-
-| Аспект | Валидация |
-|--------|-----------|
-| **Качество кода** | Ruff, Bandit SAST, 70%+ покрытие |
-| **Безопасность** | 0 hardcoded секретов, OWASP, сканирование deps |
-| **Тестирование** | 112+ backend тестов, 64+ frontend тестов |
-| **Мониторинг** | Sentry для production |
-| **CI/CD** | GitHub Actions, Railway auto-deploy |
-
----
-
 ## 💡 Как я использую Vibe Coding
 
 1. **Валидация архитектуры** — Claude проверяет решения перед разработкой
@@ -217,18 +163,7 @@ Testing: gamification through streaks, AI coaching, monetization
 4. **Документация** — AI черновик, я уточняю для точности
 5. **Решение проблем** — Мозговой штурм с AI, решение сам
 
-**Ключевой принцип:** AI ускоряет, не заменяет. Я сохраняю полную ответственность.
-
----
-
-## Моя философия
-
-✓ **Реальный код** — Production приложения, не туториалы  
-✓ **Тщательное тестирование** — Каждая фича протестирована и прошла CI  
-✓ **Безопасность по умолчанию** — Без компромиссов  
-✓ **Обучение через разработку** — Теория из практики  
-✓ **Осознанный выбор** — Использование инструментов с умом  
-✓ **Итерация на знаниях** — Переосмотр кода, применение опыта  
+**Ключевой принцип:** AI ускоряет, не заменяет. Я сохраняю полную ответственность
 
 ---
 
@@ -245,8 +180,6 @@ Testing: gamification through streaks, AI coaching, monetization
 
 <div align="center">
 
-**Сделано с экспериментированием Сделано с экспериментированием & ☕ в Москве ☕**
-
-Обновлено: Сентябрь 2026
+**Сделано с экспериментированием & ☕**
 
 </div>
